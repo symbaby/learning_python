@@ -21,7 +21,7 @@ def runMyList():
     if "cherry" in mylist:
         print("found a cherry in your list!")
     else:
-        print("not in my list!")
+        print("no in my list!")
 
     # TIP : PRINT TRUE OR FALSE IF ITEM IS IN LIST
     print("banana" in mylist)
