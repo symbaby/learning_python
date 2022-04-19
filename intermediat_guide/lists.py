@@ -1,3 +1,5 @@
+#LIST IS MUTABLE
+
 # DEFINING A SIMPLE FUNCTION
 def runMyList():
 
@@ -13,7 +15,7 @@ def runMyList():
     item=mylist[-1]
     print(item)
 
-    # ITERATE THROW LISTS
+    # ITERATE THROUGH LISTS
     for i in mylist:
         print(i)
 
